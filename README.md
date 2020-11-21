@@ -1,4 +1,4 @@
-# classroom-python-for-data-science
+# classroom-python-data-science
 
 Classroom for Python Data Science.
 
