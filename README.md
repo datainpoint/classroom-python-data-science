@@ -25,8 +25,20 @@ About instructor: <https://www.datainpoint.com/>
 |Topics|Exercises|
 |-----|---------|
 |[Array Computing with NumPy](https://datainpoint.github.io/chapter-array-computing-with-numpy/array-computing-with-numpy.slides.html)|[EX1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-array-computing-with-numpy&urlpath=tree%2Fexercise-array-computing-with-numpy%2Fexercises.ipynb&branch=main)|
+|DataFrame Wrangling with Pandas|[EX2]()|
+||[EX3]()|
+|Project: Taiwan Election 2020||
+|Data Visualization with Matplotlib||
+|Prerequisites of Web Scraping||
+|Web Scraping with Python|
 
 How to convert `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
 - Copy and paste the URL to your Chrome browser
 - File > Print... > Save as PDF
+
+## References
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
+- [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
