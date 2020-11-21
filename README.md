@@ -22,7 +22,7 @@ About instructor: <https://www.datainpoint.com/>
 
 ## Slides
 
-|Topic|Exercises|
+|Topics|Exercises|
 |-----|---------|
 |[Array Computing with NumPy](https://datainpoint.github.io/chapter-array-computing-with-numpy/array-computing-with-numpy.slides.html)|[EX1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-array-computing-with-numpy&urlpath=tree%2Fexercise-array-computing-with-numpy%2Fexercises.ipynb&branch=main)|
 
