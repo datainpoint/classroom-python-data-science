@@ -27,10 +27,10 @@ About instructor: <https://www.datainpoint.com/>
 |[Array Computing with NumPy](https://datainpoint.github.io/chapter-array-computing-with-numpy/array-computing-with-numpy.slides.html)|[EX1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-array-computing-with-numpy&urlpath=tree%2Fexercise-array-computing-with-numpy%2Fexercises.ipynb&branch=main)|
 |[DataFrame Wrangling with Pandas](https://datainpoint.github.io/chapter-dataframe-wrangling-with-pandas/dataframe-wrangling-with-pandas.slides.html)|[EX2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-basic-pandas&urlpath=tree%2Fexercise-basic-pandas%2Fexercises.ipynb&branch=main)|
 ||[EX3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-advanced-pandas&urlpath=tree%2Fexercise-advanced-pandas%2Fexercises.ipynb&branch=main)|
-|Project: Taiwan Election 2020||
-|Data Visualization with Matplotlib||
+|[Project: Taiwan Election 2020](https://datainpoint.github.io/chapter-taiwan-election-2020/slides.html)||
+|[Data Visualization with Matplotlib](https://datainpoint.github.io/chapter-data-visualization-with-matplotlib/slides.html)||
 |Prerequisites of Web Scraping||
-|Web Scraping with Python|
+|Web Scraping with Python|EX4|
 
 How to convert `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
